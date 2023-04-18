@@ -1,0 +1,21 @@
+C:\Users\Navegador\source\repos\Valentin.Torassa.Colombero-CajaDeAhorro\bin\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.exe.config
+C:\Users\Navegador\source\repos\Valentin.Torassa.Colombero-CajaDeAhorro\bin\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.exe
+C:\Users\Navegador\source\repos\Valentin.Torassa.Colombero-CajaDeAhorro\bin\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.pdb
+C:\Users\Navegador\source\repos\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero_CajaDeAhorro.Form1.resources
+C:\Users\Navegador\source\repos\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero_CajaDeAhorro.Properties.Resources.resources
+C:\Users\Navegador\source\repos\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.exe
+C:\Users\Navegador\source\repos\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.pdb
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.csproj.AssemblyReference.cache
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.csproj.SuggestedBindingRedirects.cache
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero_CajaDeAhorro.Form1.resources
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero_CajaDeAhorro.Properties.Resources.resources
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.csproj.GenerateResource.cache
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.exe
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\obj\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.pdb
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\bin\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.exe.config
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\bin\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.exe
+D:\ESCRITORIO NO BORRAR\Facultad\Segundo\Primer Cuatrimestre\Programacion orientada a objetos\Clase 3\Valentin.Torassa.Colombero-CajaDeAhorro\bin\Debug\Valentin.Torassa.Colombero-CajaDeAhorro.pdb
